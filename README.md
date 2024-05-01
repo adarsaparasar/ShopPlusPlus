@@ -54,6 +54,7 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
 -Login
 -Register
 -Forgot Password
+-Password Reset
 -Ordering Product
  
 ## License
