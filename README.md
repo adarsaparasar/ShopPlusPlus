@@ -1,5 +1,6 @@
 # ShopPlusPlus
- -[Deployed Link here](https://shop-plus.vercel.app/)
+ -[Deployed Link here](https://shop-plus.vercel.app/) 
+ -Products will take time to appear on the screen as it is deployed in free version.
  
 ## Description
  It is a dynamic e-commerce web application that offers users an immersive online shopping venture.It provides features such as user account management,Wishlist,product browsing, and payment gateway.
@@ -46,7 +47,7 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
 -Search bar (Search by entering Product's names)
 -Product Details
 -Similar Product Recommendations
--Add to wishlist. 
+-Add to wishlist
 -Add to Cart
 -Admin Panel
 -User Panel
