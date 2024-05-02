@@ -32,12 +32,10 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
 
   -Once everything is installed and configured, you should be able to run the project on your local machine:
 
-   1. **Navigate to the frontend folder.**
+   * **Navigate to the frontend folder.**
       * `cd frontend`
       * And type `npm start` in the command prompt.
-   2. **Navigate to the backend folder.**
-      * `cd backend`
-      * And type `npm start` in the command prompt.
+   
 
 
 ## Feature Set Implemented
