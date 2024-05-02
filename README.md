@@ -60,4 +60,4 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
  
 ## License
 
- *MIT Licensed
+ * MIT Licensed
