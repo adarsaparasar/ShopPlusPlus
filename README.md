@@ -30,7 +30,8 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
 
 ## Usage
 
-  -Once everything is installed and configured, you should be able to run the project on your local machine:
+  * Once everything is installed and configured, you should be able to run the project on your local machine:
+  * Here `localhost:3000`.
 
    * **Navigate to the frontend folder.**
       * `cd frontend`
