@@ -42,21 +42,21 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
 
 ## Feature Set Implemented
 
-*Filtering Product by Category
-*Filtering Product by Price
-*Search bar (Search by entering Product's names)
-*Product Details
-*Similar Product Recommendations
-*Add to wishlist
-*Add to Cart
-*Admin Panel
-*User Panel
-*Pagination
-*Login
-*Register
-*Forgot Password
-*Password Reset
-*Ordering Product
+* Filtering Product by Category
+* Filtering Product by Price
+* Search bar (Search by entering Product's names)
+* Product Details
+* Similar Product Recommendations
+* Add to wishlist
+* Add to Cart
+* Admin Panel
+* User Panel
+* Pagination
+* Login
+* Register
+* Forgot Password
+* Password Reset
+* Ordering Product
  
 ## License
 
