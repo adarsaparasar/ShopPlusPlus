@@ -107,6 +107,16 @@ const HomePage = () => {
   };
   return (
     <Layout title={"All Products - Best offers "}>
+       <img
+        src="/images/banner1.jpg"
+        className="banner-img"
+        alt="bannerimage"
+        style={{
+    width: "100%", 
+    height: "auto", 
+  }}
+        
+      />
       <div className="container-fluid row mt-3">
         <div className="col-md-2">
           <h4 className="text-center">Filter By Category</h4>
