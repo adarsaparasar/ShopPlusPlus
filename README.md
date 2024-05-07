@@ -37,6 +37,10 @@ Add a dummy payment system using [Braintree](https://www.braintreepayments.com/)
       * `cd frontend`
       * And type `npm start` in the command prompt.
    
+   *  **Admin access Details**
+   *   **Admin email:** - admin@admin.com
+   *   **Admin password** - 12345
+  
 
 
 ## Feature Set Implemented
